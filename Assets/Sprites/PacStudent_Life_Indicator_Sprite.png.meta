@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      PacStudent_Life_Indicator_Sprite_0: 4421446888130474342
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

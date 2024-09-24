@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Outside_Wall_Sprite_0: -3163846785335668477
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

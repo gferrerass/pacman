@@ -156,7 +156,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      T_Junction_Piece_Sprite_0: -3634630771259731428
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
