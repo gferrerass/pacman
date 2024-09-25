@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Power_Pellet_Tile
   m_EditorClassIdentifier: 
   m_DefaultSprite: {fileID: 0}
-  m_DefaultGameObject: {fileID: 0}
+  m_DefaultGameObject: {fileID: 5905696138371996427, guid: 0f85f4932cfd9b442b9a118ee2700a9e, type: 3}
   m_DefaultColliderType: 0
   m_TilingRules: []
